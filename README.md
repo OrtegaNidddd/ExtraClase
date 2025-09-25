@@ -1,4 +1,4 @@
-```markdown
+
 # Nero Bakery — Base de Datos (MySQL)
 
 Proyecto académico para modelar y poblar la BD de una panadería–pastelería (**Nero Bakery**).  
@@ -38,7 +38,6 @@ Compra **ingredientes** a varios **proveedores**, produce a partir de **recetas*
     ├── documetacion_llaves.md
     └── README.md
 ```
-```
 ---
 
 ## ✅ Requisitos de la actividad (checklist)
@@ -59,5 +58,4 @@ Compra **ingredientes** a varios **proveedores**, produce a partir de **recetas*
 - Andres Felipe Reyes 
 - Johel Alexander Velasco Guerrero
 
-```
 ```
