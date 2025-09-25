@@ -55,7 +55,5 @@ Compra **ingredientes** a varios **proveedores**, produce a partir de **recetas*
 
 - Nick Alejandro Ortega Mendez
 - Santiago Alejandro Medina Ortega
-- Andres Felipe Reyes 
+- Andres Felipe Reyes Gutierrez
 - Johel Alexander Velasco Guerrero
-
-```
